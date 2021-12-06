@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+##Used Items
+free template: https://colorlib.com/wp/template/meetme/
+backend: wordpress
+Frontend: reactjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this tempalte uses wordpress restAPI itself
 
-## Available Scripts
+##how to run
+to change it for your website visit: **src/useGetData.js link 13** and change it to your website
 
-In the project directory, you can run:
 
 ### `npm start`
 
