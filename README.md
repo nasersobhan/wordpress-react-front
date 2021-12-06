@@ -1,11 +1,11 @@
-##Used Items
+### Used Items
 free template: https://colorlib.com/wp/template/meetme/
 backend: wordpress
 Frontend: reactjs
 
 this tempalte uses wordpress restAPI itself
 
-##how to run
+## how to run
 to change it for your website visit: **src/useGetData.js link 13** and change it to your website
 
 
